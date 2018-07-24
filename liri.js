@@ -1,6 +1,6 @@
 var fs = require("fs");
 var keys = require("./keys.js");
-var figlet = require("figlet");
+
 var Twitter = require("twitter");
 var Spotify = require("node-spotify-api");
 var request = require("request");
