@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/ranoxious/Liri/issues"
   },
-  "homepage": "https://github.com/ranoxious/Liri#readme"
+  "homepage": "https://github.com/ranoxious/Liri#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.87.0"
+  }
 }
